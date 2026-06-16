@@ -60,3 +60,9 @@ python app.py
   <b>Built by:</b> <a href="https://huggingface.co/LADDOO22212015">LADDOO22212015</a><br>
   <i>Forging the absolute future of open-source autonomous agents.</i>
 </div>
+
+
+### 🧠 Preferred Models
+> - `openbmb/MiniCPM-Llama3-V-2_5` — Visual-language reasoning and multimodal image understanding.
+> - `meta-llama/Meta-Llama-3-8B-Instruct` — Dynamic game logic and procedural generation.
+> - `meta-llama/Meta-Llama-3-70B-Instruct` — Complex multi-step agentic reasoning and planning.
